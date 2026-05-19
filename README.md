@@ -27,6 +27,8 @@ An enterprise-grade Excel-based solution for real-time warehouse inventory track
 - Dedicated **Cleaning Tasks** sheet documenting every transformation applied
 - Handles negatives (`ABS()`), duplicates, blanks, spaces (`TRIM()`), and inconsistent casing (`PROPER()`)
 - Raw Data preserved separately from cleaned output
+- <img width="1592" height="727" alt="data_cleaning" src="https://github.com/user-attachments/assets/397698eb-40da-4cfa-b036-14d3eeab22a6" />
+
 
 ### 📦 End-to-End Supply Chain Tracking
 - Separate **Stock In** and **Stock Out** sheets for granular movement logging
