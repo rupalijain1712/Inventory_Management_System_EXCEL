@@ -22,7 +22,7 @@ An enterprise-grade Excel-based solution for real-time warehouse inventory track
 - Visual summary of inventory health across all categories
 - At-a-glance KPIs for stock levels, turnover rates, and order status
 - Built-in Pivot Table for dynamic slicing and filtering
-- <img width="853" height="561" alt="dashboard" src="https://github.com/user-attachments/assets/355915d5-1f8f-4a08-af13-ffbec588a68c" />
+- <img width="917" height="626" alt="Dashboard" src="https://github.com/user-attachments/assets/0c844b38-b1b4-44be-9d12-c4c1aea5130a" />
 
 
 ### 🧹 Structured Data Cleaning Pipeline
